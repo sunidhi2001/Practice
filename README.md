@@ -1,3 +1,3 @@
 # Practice
 code in python
-it will be updated soon . sss
+it will be updated shortly
